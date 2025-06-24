@@ -20,3 +20,5 @@ This is a simple Deep Learning project built with TensorFlow and Streamlit to pr
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+![image](https://github.com/user-attachments/assets/d0057e2b-8aa9-4660-9848-f4e42b740eb7)
+
